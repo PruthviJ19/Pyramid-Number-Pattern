@@ -1,1 +1,1 @@
-# Pyramid-Number-Pattern
+#PruthviJ. Pyramid-Number-Pattern
